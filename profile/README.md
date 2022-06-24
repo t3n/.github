@@ -1,4 +1,4 @@
-![t3n Banner](https://github.com/t3n/.github/blob/main/static/t3n-Banner.png)
+![t3n Banner](https://github.com/t3n/.github/blob/main/static/t3n_Banner.png)
 
 ## Hey du 👋
 
