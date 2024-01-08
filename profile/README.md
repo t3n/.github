@@ -1,5 +1,3 @@
-![t3n Banner](https://github.com/t3n/.github/blob/main/static/t3n_Banner.png)
-
 ## Hey du 👋
 
 Cool, dass du da bist! Hier kannst du einen Deep-Dive zu unserem Tech-Stack lesen:
